@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] A
+- [x] C
+- [ ] B
